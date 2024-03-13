@@ -1,0 +1,347 @@
+﻿Código Región;Nombre Región;Código Provincia;Nombre Provincia;Código Comuna 2018;Nombre Comuna;Poblacion;Unidades Policiales;Promedio Tasa_c100mil_casos-policiales 2022;Score
+01;Tarapacá;056;San Antonio;05602;Algarrobo;13817;1;66,17577899;318
+01;Tarapacá;135;Melipilla;13502;Alhué;6444;1;26,49125101;184
+01;Tarapacá;083;Biobío;08314;Alto Biobío;5923;3;27,11769856;847
+01;Tarapacá;033;Huasco;03302;Alto del Carmen;5299;4;25,09742364;43
+01;Tarapacá;011;Iquique;01107;Alto Hospicio;108375;1;28,79604539;680
+01;Tarapacá;102;Chiloé;10202;Ancud;38991;3;32,75002384;674
+01;Tarapacá;041;Elqui;04103;Andacollo;11044;1;25,1410569;741
+02;Antofagasta;092;Malleco;09201;Angol;53262;1;18,49877545;195
+02;Antofagasta;122;Antártica Chilena;12202;Antártica;138;0;0;77
+02;Antofagasta;021;Antofagasta;02101;Antofagasta;361873;4;26,33484047;198
+02;Antofagasta;083;Biobío;08302;Antuco;4073;3;22,55464931;47
+02;Antofagasta;082;Arauco;08202;Arauco;36257;3;28,66451807;157
+02;Antofagasta;151;Arica;15101;Arica;221364;7;31,50097466;403
+02;Antofagasta;112;Aysén;11201;Aysén;23959;4;30,14936498;596
+02;Antofagasta;134;Maipo;13402;Buin;96614;5;21,71673439;358
+02;Antofagasta;161;Diguillín;16102;Bulnes;21493;2;20,9803017;575
+03;Atacama;054;Petorca;05402;Cabildo;19388;2;19,92562791;584
+03;Atacama;122;Antártica Chilena;12201;Cabo de Hornos;2063;3;23,94763451;555
+03;Atacama;083;Biobío;08303;Cabrero;28573;3;28,83619172;42
+03;Atacama;022;El Loa;02201;Calama;165731;3;24,29045761;227
+03;Atacama;101;Llanquihue;10102;Calbuco;33985;4;36,41125058;56
+03;Atacama;031;Copiapó;03102;Caldera;17662;1;51,97588319;246
+03;Atacama;134;Maipo;13403;Calera de Tango;25392;1;19,46671905;846
+03;Atacama;053;Los Andes;05302;Calle Larga;14832;1;18,62438162;708
+03;Atacama;151;Arica;15102;Camarones;1255;2;16,95058903;596
+04;Coquimbo;014;Tamarugal;01402;Camiña;1250;1;15,22243787;295
+04;Coquimbo;042;Choapa;04202;Canela;9093;2;17,10788453;709
+04;Coquimbo;082;Arauco;08203;Cañete;34537;1;20,69995521;846
+04;Coquimbo;091;Cautín;09102;Carahue;24533;3;11,86278778;482
+04;Coquimbo;056;San Antonio;05603;Cartagena;22738;1;86,55585912;184
+04;Coquimbo;051;Valparaíso;05102;Casablanca;26867;2;29,14096656;929
+04;Coquimbo;102;Chiloé;10201;Castro;43807;1;32,03585396;781
+04;Coquimbo;057;San Felipe de Aconcagua;05702;Catemu;13998;3;21,75701494;427
+04;Coquimbo;072;Cauquenes;07201;Cauquenes;40441;6;19,0569369;722
+04;Coquimbo;131;Santiago;13102;Cerrillos;80832;2;29,90097827;553
+04;Coquimbo;131;Santiago;13103;Cerro Navia;132622;1;15,86307986;923
+04;Coquimbo;104;Palena;10401;Chaitén;5071;3;17,71756123;583
+04;Coquimbo;072;Cauquenes;07202;Chanco;8928;1;26,03562352;23
+04;Coquimbo;032;Chañaral;03201;Chañaral;12219;1;34,52830719;929
+04;Coquimbo;063;Colchagua;06302;Chépica;15037;1;20,31854231;495
+05;Valparaíso;081;Concepción;08103;Chiguayante;85938;1;12,86610975;192
+05;Valparaíso;114;General Carrera;11401;Chile Chico;4865;2;68,49875271;810
+05;Valparaíso;161;Diguillín;16101;Chillán;184739;4;22,91758783;135
+05;Valparaíso;161;Diguillín;16103;Chillán Viejo;30907;2;24,22975869;602
+05;Valparaíso;063;Colchagua;06303;Chimbarongo;35399;2;30,7225813;27
+05;Valparaíso;091;Cautín;09121;Cholchol;11611;1;24,20278143;783
+05;Valparaíso;102;Chiloé;10203;Chonchi;14858;1;25,41171871;224
+05;Valparaíso;112;Aysén;11202;Cisnes;6517;4;53,91659103;611
+05;Valparaíso;162;Itata;16202;Cobquecura;5012;1;23,54992584;325
+05;Valparaíso;101;Llanquihue;10103;Cochamó;4023;6;31,10769882;492
+05;Valparaíso;113;Capitán Prat;11301;Cochrane;3490;2;31,14294612;21
+05;Valparaíso;061;Cachapoal;06102;Codegua;12988;1;18,66757442;273
+05;Valparaíso;162;Itata;16203;Coelemu;15995;3;10,75449819;479
+05;Valparaíso;163;Punilla;16302;Coihueco;26881;3;19,13575952;466
+05;Valparaíso;061;Cachapoal;06103;Coinco;7359;2;17,89964267;956
+05;Valparaíso;074;Linares;07402;Colbún;20765;3;17,81643589;44
+05;Valparaíso;014;Tamarugal;01403;Colchane;1728;1;63,33122229;627
+05;Valparaíso;133;Chacabuco;13301;Colina;146207;2;14,82505465;766
+05;Valparaíso;092;Malleco;09202;Collipulli;24598;4;28,93599358;451
+05;Valparaíso;061;Cachapoal;06104;Coltauco;19597;2;18,29083641;704
+05;Valparaíso;043;Limarí;04302;Combarbalá;13322;2;21,60916228;768
+05;Valparaíso;081;Concepción;08101;Concepción;223574;3;31,78892156;794
+05;Valparaíso;131;Santiago;13104;Conchalí;126955;3;16,45709652;902
+05;Valparaíso;051;Valparaíso;05103;Concón;42152;1;28,49661896;868
+05;Valparaíso;071;Talca;07102;Constitución;46068;3;25,35420396;450
+05;Valparaíso;082;Arauco;08204;Contulmo;6031;1;30,27186624;304
+05;Valparaíso;031;Copiapó;03101;Copiapó;153937;5;26,04268101;900
+05;Valparaíso;041;Elqui;04102;Coquimbo;227730;9;32,53653868;703
+05;Valparaíso;081;Concepción;08102;Coronel;116262;5;19,60492162;530
+05;Valparaíso;141;Valdivia;14102;Corral;5302;1;14,51505211;457
+05;Valparaíso;111;Coyhaique;11101;Coyhaique;57818;0;21,19592799;363
+05;Valparaíso;091;Cautín;09103;Cunco;17526;3;21,70284293;17
+05;Valparaíso;092;Malleco;09203;Curacautín;17413;3;21,82503548;253
+05;Valparaíso;135;Melipilla;13503;Curacaví;32579;2;23,80280325;163
+05;Valparaíso;102;Chiloé;10204;Curaco de Vélez;3829;1;5,129783523;782
+05;Valparaíso;082;Arauco;08205;Curanilahue;32288;1;20,55254549;914
+05;Valparaíso;091;Cautín;09104;Curarrehue;7489;3;25,49394519;881
+05;Valparaíso;071;Talca;07103;Curepto;9448;2;20,12300541;242
+06;Libertador General Bernardo O'Higgins;073;Curicó;07301;Curicó;149136;9;25,43005183;60
+06;Libertador General Bernardo O'Higgins;102;Chiloé;10205;Dalcahue;13762;1;23,08553708;189
+06;Libertador General Bernardo O'Higgins;032;Chañaral;03202;Diego de Almagro;13925;3;34,80973779;616
+06;Libertador General Bernardo O'Higgins;061;Cachapoal;06105;Doñihue;20887;2;16,90181746;890
+06;Libertador General Bernardo O'Higgins;131;Santiago;13105;El Bosque;162505;2;15,1714559;995
+06;Libertador General Bernardo O'Higgins;161;Diguillín;16104;El Carmen;12044;1;20,37157757;105
+06;Libertador General Bernardo O'Higgins;136;Talagante;13602;El Monte;35923;3;24,53984594;243
+06;Libertador General Bernardo O'Higgins;056;San Antonio;05604;El Quisco;15955;1;103,3455243;465
+06;Libertador General Bernardo O'Higgins;056;San Antonio;05605;El Tabo;13286;2;87,99186564;469
+06;Libertador General Bernardo O'Higgins;071;Talca;07104;Empedrado;4142;1;17,56895816;128
+06;Libertador General Bernardo O'Higgins;092;Malleco;09204;Ercilla;7733;3;19,99537607;604
+06;Libertador General Bernardo O'Higgins;131;Santiago;13106;Estación Central;147041;3;24,33736595;38
+06;Libertador General Bernardo O'Higgins;081;Concepción;08104;Florida;10624;2;25,95420525;566
+06;Libertador General Bernardo O'Higgins;091;Cautín;09105;Freire;24606;3;24,26798464;136
+06;Libertador General Bernardo O'Higgins;033;Huasco;03303;Freirina;7041;1;32,47609962;76
+06;Libertador General Bernardo O'Higgins;101;Llanquihue;10104;Fresia;12261;3;25,03087141;323
+06;Libertador General Bernardo O'Higgins;101;Llanquihue;10105;Frutillar;18428;2;41,00829136;467
+06;Libertador General Bernardo O'Higgins;104;Palena;10402;Futaleufú;2623;2;23,90672699;70
+06;Libertador General Bernardo O'Higgins;142;Ranco;14202;Futrono;14665;3;27,12255595;439
+06;Libertador General Bernardo O'Higgins;091;Cautín;09106;Galvarino;11996;1;23,58943527;546
+06;Libertador General Bernardo O'Higgins;152;Parinacota;15202;General Lagos;684;3;16,30470228;530
+06;Libertador General Bernardo O'Higgins;091;Cautín;09107;Gorbea;14414;3;24,19562599;72
+06;Libertador General Bernardo O'Higgins;061;Cachapoal;06106;Graneros;33437;1;32,3052885;74
+06;Libertador General Bernardo O'Higgins;112;Aysén;11203;Guaitecas;1843;1;52,4023188;381
+06;Libertador General Bernardo O'Higgins;055;Quillota;05503;Hijuelas;17988;0;15,12793325;444
+06;Libertador General Bernardo O'Higgins;104;Palena;10403;Hualaihué;8944;3;25,31952135;764
+06;Libertador General Bernardo O'Higgins;073;Curicó;07302;Hualañé;9657;2;15,43146373;21
+06;Libertador General Bernardo O'Higgins;081;Concepción;08112;Hualpén;91773;1;14,54030033;636
+06;Libertador General Bernardo O'Higgins;081;Concepción;08105;Hualqui;24333;3;21,54427796;605
+06;Libertador General Bernardo O'Higgins;014;Tamarugal;01404;Huara;2730;2;23,19707201;151
+06;Libertador General Bernardo O'Higgins;033;Huasco;03304;Huasco;10149;1;40,89227871;657
+06;Libertador General Bernardo O'Higgins;131;Santiago;13107;Huechuraba;98671;1;16,19496098;713
+06;Libertador General Bernardo O'Higgins;042;Choapa;04201;Illapel;30848;1;17,89048785;421
+07;Maule;131;Santiago;13108;Independencia;100281;5;18,18401168;283
+07;Maule;011;Iquique;01101;Iquique;191468;3;31,78729372;846
+07;Maule;136;Talagante;13603;Isla de Maipo;36219;2;38,56306142;602
+07;Maule;052;Isla de Pascua;05201;Isla de Pascua;7750;1;42,52871453;711
+07;Maule;051;Valparaíso;05104;Juan Fernández;926;0;9,80103891;391
+07;Maule;055;Quillota;05502;La Calera;50554;0;19,90471169;303
+07;Maule;131;Santiago;13109;La Cisterna;90119;2;27,40335188;482
+07;Maule;055;Quillota;05504;La Cruz;22098;1;11,45366794;113
+07;Maule;062;Cardenal Caro;06202;La Estrella;3041;1;37,24331736;968
+07;Maule;131;Santiago;13110;La Florida;366916;4;19,71923796;647
+07;Maule;131;Santiago;13111;La Granja;116571;3;17,70022978;304
+07;Maule;041;Elqui;04104;La Higuera;4241;2;33,92566769;400
+07;Maule;054;Petorca;05401;La Ligua;35390;3;27,54676391;918
+07;Maule;131;Santiago;13112;La Pintana;177335;2;18,93192264;69
+07;Maule;131;Santiago;13113;La Reina;92787;1;19,81614611;633
+07;Maule;041;Elqui;04101;La Serena;221054;4;25,31439667;457
+07;Maule;142;Ranco;14201;La Unión;38036;4;24,96653422;378
+07;Maule;142;Ranco;14203;Lago Ranco;9896;3;31,71809773;655
+07;Maule;111;Coyhaique;11102;Lago Verde;852;3;34,43723813;971
+07;Maule;121;Magallanes;12102;Laguna Blanca;274;2;61,43764079;941
+07;Maule;083;Biobío;08304;Laja;22389;1;22,45355746;419
+07;Maule;133;Chacabuco;13302;Lampa;102034;3;18,84403318;570
+07;Maule;141;Valdivia;14103;Lanco;16752;1;17,09104518;386
+07;Maule;061;Cachapoal;06107;Las Cabras;24640;3;30,47974737;962
+07;Maule;131;Santiago;13114;Las Condes;294838;2;11,81540788;329
+07;Maule;091;Cautín;09108;Lautaro;38013;4;27,23727485;720
+07;Maule;082;Arauco;08201;Lebu;25522;2;70,59174891;707
+07;Maule;073;Curicó;07303;Licantén;6653;2;30,85792559;404
+07;Maule;058;Marga Marga;05802;Limache;46121;1;21,31252017;896
+07;Maule;074;Linares;07401;Linares;93602;7;21,92555057;222
+08;Biobío;062;Cardenal Caro;06203;Litueche;6294;2;34,4999425;141
+08;Biobío;057;San Felipe de Aconcagua;05703;Llaillay;24608;1;21,68078848;955
+08;Biobío;101;Llanquihue;10107;Llanquihue;17591;3;34,79773815;759
+08;Biobío;131;Santiago;13115;Lo Barnechea;105833;2;10,83864919;636
+08;Biobío;131;Santiago;13116;Lo Espejo;98804;3;20,91813949;161
+08;Biobío;131;Santiago;13117;Lo Prado;96249;1;22,90822301;284
+08;Biobío;063;Colchagua;06304;Lolol;6811;1;18,18570817;205
+08;Biobío;091;Cautín;09109;Loncoche;23612;4;29,95016802;787
+08;Biobío;074;Linares;07403;Longaví;30534;2;18,35396572;380
+08;Biobío;092;Malleco;09205;Lonquimay;10251;5;23,02156907;569
+08;Biobío;082;Arauco;08206;Los Alamos;21035;2;22,78273138;353
+08;Biobío;053;Los Andes;05301;Los Andes;66708;2;24,1284971;62
+08;Biobío;083;Biobío;08301;Los Ángeles;202331;8;27,72323085;66
+08;Biobío;141;Valdivia;14104;Los Lagos;19634;3;23,845359;120
+08;Biobío;101;Llanquihue;10106;Los Muermos;17068;3;15,93912435;752
+08;Biobío;092;Malleco;09206;Los Sauces;7265;1;33,69319538;55
+08;Biobío;042;Choapa;04203;Los Vilos;21382;2;41,02904813;713
+08;Biobío;081;Concepción;08106;Lota;43535;1;20,14965012;737
+08;Biobío;092;Malleco;09207;Lumaco;9548;3;18,20157853;397
+08;Biobío;061;Cachapoal;06108;Machalí;52505;4;19,16402723;438
+08;Biobío;131;Santiago;13118;Macul;116534;1;17,14339906;796
+08;Biobío;141;Valdivia;14105;Máfil;7095;1;29,21601323;838
+08;Biobío;131;Santiago;13119;Maipú;521627;3;13,80302437;764
+08;Biobío;061;Cachapoal;06109;Malloa;13407;2;27,15634295;841
+08;Biobío;062;Cardenal Caro;06204;Marchihue;7308;1;23,64617103;300
+08;Biobío;023;Tocopilla;02302;María Elena;6457;1;44,09587704;84
+08;Biobío;135;Melipilla;13504;María Pinto;13590;1;18,71970928;582
+08;Biobío;141;Valdivia;14106;Mariquina;21278;2;35,72128054;619
+08;Biobío;071;Talca;07105;Maule;49721;3;16,27545889;53
+08;Biobío;101;Llanquihue;10108;Maullín;14216;5;21,13646698;209
+08;Biobío;021;Antofagasta;02102;Mejillones;13467;1;51,8470512;222
+08;Biobío;091;Cautín;09110;Melipeuco;6138;1;27,99996657;463
+08;Biobío;135;Melipilla;13501;Melipilla;123627;5;22,99285233;258
+09;La Araucanía;073;Curicó;07304;Molina;45976;5;25,8083964;885
+09;La Araucanía;043;Limarí;04303;Monte Patria;30751;6;15,31956615;630
+09;La Araucanía;061;Cachapoal;06110;Mostazal;25343;2;35,76356622;133
+09;La Araucanía;083;Biobío;08305;Mulchén;29627;1;28,348413;642
+09;La Araucanía;083;Biobío;08306;Nacimiento;26315;1;20,95714968;484
+09;La Araucanía;063;Colchagua;06305;Nancagua;17833;1;29,21572022;298
+09;La Araucanía;124;Última Esperanza;12401;Natales;21477;4;27,12408727;896
+09;La Araucanía;062;Cardenal Caro;06205;Navidad;6641;2;137,8142952;918
+09;La Araucanía;083;Biobío;08307;Negrete;9737;1;42,80007609;554
+09;La Araucanía;162;Itata;16204;Ninhue;5213;1;14,66060695;459
+09;La Araucanía;055;Quillota;05506;Nogales;22120;2;21,08029249;16
+09;La Araucanía;091;Cautín;09111;Nueva Imperial;32510;1;28,64366812;206
+09;La Araucanía;163;Punilla;16303;Ñiquén;11152;2;20,72647431;892
+09;La Araucanía;131;Santiago;13120;Ñuñoa;208237;2;18,13749968;917
+09;La Araucanía;113;Capitán Prat;11302;O'Higgins;625;3;;287
+09;La Araucanía;061;Cachapoal;06111;Olivar;13608;2;19,69558783;861
+09;La Araucanía;022;El Loa;02202;Ollagüe;321;2;37,72873043;103
+09;La Araucanía;058;Marga Marga;05803;Olmué;17516;1;18,09651296;400
+09;La Araucanía;103;Osorno;10301;Osorno;161460;8;26,21082587;231
+09;La Araucanía;043;Limarí;04301;Ovalle;111272;3;24,85830552;570
+09;La Araucanía;136;Talagante;13604;Padre Hurtado;63250;2;17,69191005;392
+09;La Araucanía;091;Cautín;09112;Padre Las Casas;76126;1;15,13015069;510
+09;La Araucanía;041;Elqui;04105;Paihuano;4497;2;39,21041429;914
+09;La Araucanía;141;Valdivia;14107;Paillaco;20188;3;21,42158691;476
+09;La Araucanía;134;Maipo;13404;Paine;72759;5;16,20207423;718
+09;La Araucanía;104;Palena;10404;Palena;1711;3;15,88768849;763
+09;La Araucanía;063;Colchagua;06306;Palmilla;12482;1;12,90564798;96
+09;La Araucanía;141;Valdivia;14108;Panguipulli;34539;8;31,10114062;609
+09;La Araucanía;057;San Felipe de Aconcagua;05704;Panquehue;7273;2;19,70711155;371
+09;La Araucanía;054;Petorca;05403;Papudo;6356;2;76,89813699;748
+09;La Araucanía;062;Cardenal Caro;06206;Paredones;6188;2;22,94132859;500
+09;La Araucanía;074;Linares;07404;Parral;41637;5;28,29780257;799
+10;Los Lagos;131;Santiago;13121;Pedro Aguirre Cerda;101174;4;19,59549753;14
+10;Los Lagos;071;Talca;07106;Pelarco;8422;1;11,94491687;604
+10;Los Lagos;072;Cauquenes;07203;Pelluhue;7571;2;85,5358551;24
+10;Los Lagos;161;Diguillín;16105;Pemuco;8448;1;21,68548111;185
+10;Los Lagos;071;Talca;07107;Pencahue;8245;3;26,24864179;959
+10;Los Lagos;081;Concepción;08107;Penco;47367;2;26,91775889;530
+10;Los Lagos;136;Talagante;13605;Peñaflor;90201;2;17,56812641;599
+10;Los Lagos;131;Santiago;13122;Peñalolén;241599;3;16,06903405;159
+10;Los Lagos;063;Colchagua;06307;Peralillo;11007;2;22,09939916;436
+10;Los Lagos;091;Cautín;09113;Perquenco;6905;1;21,40675002;625
+10;Los Lagos;054;Petorca;05404;Petorca;9826;2;11,41252301;452
+10;Los Lagos;061;Cachapoal;06112;Peumo;14313;1;21,92251706;722
+10;Los Lagos;014;Tamarugal;01405;Pica;9296;3;32,01434243;469
+10;Los Lagos;061;Cachapoal;06113;Pichidegua;19714;2;18,47648208;486
+10;Los Lagos;062;Cardenal Caro;06201;Pichilemu;16394;1;97,42874091;739
+10;Los Lagos;161;Diguillín;16106;Pinto;10827;4;22,29595919;377
+10;Los Lagos;132;Cordillera;13202;Pirque;26521;1;22,60109644;25
+10;Los Lagos;091;Cautín;09114;Pitrufquén;24837;2;25,4427538;510
+10;Los Lagos;063;Colchagua;06308;Placilla;8738;1;20,8176488;195
+10;Los Lagos;162;Itata;16205;Portezuelo;4862;1;5,361815296;287
+10;Los Lagos;123;Tierra del Fuego;12301;Porvenir;6801;2;16,84210526;828
+10;Los Lagos;014;Tamarugal;01401;Pozo Almonte;15711;4;42,8652525;824
+10;Los Lagos;123;Tierra del Fuego;12302;Primavera;1158;1;92,33610342;845
+10;Los Lagos;131;Santiago;13123;Providencia;142079;2;38,21105795;40
+10;Los Lagos;051;Valparaíso;05105;Puchuncaví;18546;4;73,82779285;512
+10;Los Lagos;091;Cautín;09115;Pucón;28523;1;69,50357075;807
+10;Los Lagos;131;Santiago;13124;Pudahuel;230293;4;21,05996032;618
+10;Los Lagos;132;Cordillera;13201;Puente Alto;568106;5;17,09192715;4
+10;Los Lagos;101;Llanquihue;10101;Puerto Montt;245902;9;42,68256685;90
+10;Los Lagos;103;Osorno;10302;Puerto Octay;8999;3;37,49920675;979
+11;Aysén del General Carlos Ibáñez del Campo;101;Llanquihue;10109;Puerto Varas;44578;6;28,09964323;287
+11;Aysén del General Carlos Ibáñez del Campo;063;Colchagua;06309;Pumanque;3421;1;19,38822687;692
+11;Aysén del General Carlos Ibáñez del Campo;043;Limarí;04304;Punitaqui;10956;1;13,62850402;934
+11;Aysén del General Carlos Ibáñez del Campo;121;Magallanes;12101;Punta Arenas;131592;4;13,64032775;633
+11;Aysén del General Carlos Ibáñez del Campo;102;Chiloé;10206;Puqueldón;3921;1;10,03701148;989
+11;Aysén del General Carlos Ibáñez del Campo;092;Malleco;09208;Purén;11779;1;18,41628606;826
+11;Aysén del General Carlos Ibáñez del Campo;103;Osorno;10303;Purranque;20369;3;30,03514112;987
+11;Aysén del General Carlos Ibáñez del Campo;057;San Felipe de Aconcagua;05705;Putaendo;16754;4;22,98322225;716
+11;Aysén del General Carlos Ibáñez del Campo;152;Parinacota;15201;Putre;2765;7;16,52482855;210
+11;Aysén del General Carlos Ibáñez del Campo;103;Osorno;10304;Puyehue;11667;2;26,5185786;527
+12;Magallanes y de la Antártica Chilena;102;Chiloé;10207;Queilén;5385;1;37,9668739;381
+12;Magallanes y de la Antártica Chilena;102;Chiloé;10208;Quellón;27192;1;34,6807513;902
+12;Magallanes y de la Antártica Chilena;102;Chiloé;10209;Quemchi;8352;2;13,20290464;136
+12;Magallanes y de la Antártica Chilena;083;Biobío;08308;Quilaco;3988;3;19,47921379;183
+12;Magallanes y de la Antártica Chilena;131;Santiago;13125;Quilicura;210410;1;15,05066927;273
+12;Magallanes y de la Antártica Chilena;083;Biobío;08309;Quilleco;9587;2;15,24790998;919
+12;Magallanes y de la Antártica Chilena;161;Diguillín;16107;Quillón;17485;1;31,06859393;617
+12;Magallanes y de la Antártica Chilena;055;Quillota;05501;Quillota;90517;2;19,43218828;928
+12;Magallanes y de la Antártica Chilena;058;Marga Marga;05801;Quilpué;151708;2;19,45934201;523
+12;Magallanes y de la Antártica Chilena;102;Chiloé;10210;Quinchao;8088;2;19,47898505;901
+12;Magallanes y de la Antártica Chilena;061;Cachapoal;06114;Quinta de Tilcoco;13002;2;17,54759318;472
+13;Metropolitana de Santiago;131;Santiago;13126;Quinta Normal;110026;2;25,00897204;673
+13;Metropolitana de Santiago;051;Valparaíso;05107;Quintero;31923;1;52,50365839;955
+13;Metropolitana de Santiago;162;Itata;16201;Quirihue;11594;1;10,97746821;192
+13;Metropolitana de Santiago;061;Cachapoal;06101;Rancagua;241774;3;32,38422736;164
+13;Metropolitana de Santiago;162;Itata;16206;Ranquil;5755;1;;233
+13;Metropolitana de Santiago;073;Curicó;07305;Rauco;10484;1;19,20526773;936
+13;Metropolitana de Santiago;131;Santiago;13127;Recoleta;157851;4;25,48189774;958
+13;Metropolitana de Santiago;092;Malleco;09209;Renaico;10250;2;26,00517214;282
+13;Metropolitana de Santiago;131;Santiago;13128;Renca;147151;2;16,54887602;374
+13;Metropolitana de Santiago;061;Cachapoal;06115;Rengo;58825;3;29,50992418;38
+13;Metropolitana de Santiago;061;Cachapoal;06116;Requínoa;27968;2;22,6021031;672
+13;Metropolitana de Santiago;074;Linares;07405;Retiro;19974;3;20,50998194;134
+13;Metropolitana de Santiago;053;Los Andes;05303;Rinconada;10207;1;24,14292612;820
+13;Metropolitana de Santiago;142;Ranco;14204;Río Bueno;31372;5;19,23715501;360
+13;Metropolitana de Santiago;071;Talca;07108;Río Claro;13906;4;27,28027935;912
+13;Metropolitana de Santiago;043;Limarí;04305;Río Hurtado;4278;2;16,36026516;800
+13;Metropolitana de Santiago;114;General Carrera;11402;Río Ibáñez;2666;2;57,33499184;327
+13;Metropolitana de Santiago;103;Osorno;10305;Río Negro;14085;2;28,38832257;318
+13;Metropolitana de Santiago;121;Magallanes;12103;Río Verde;617;0;0;230
+13;Metropolitana de Santiago;073;Curicó;07306;Romeral;15187;5;30,99341032;462
+13;Metropolitana de Santiago;091;Cautín;09116;Saavedra;12450;2;12,81982358;729
+13;Metropolitana de Santiago;073;Curicó;07307;Sagrada Familia;18544;4;20,78232725;176
+13;Metropolitana de Santiago;042;Choapa;04204;Salamanca;29347;2;22,25624955;895
+13;Metropolitana de Santiago;056;San Antonio;05601;San Antonio;91350;3;33,48763488;960
+13;Metropolitana de Santiago;134;Maipo;13401;San Bernardo;301313;1;22,10332335;447
+13;Metropolitana de Santiago;163;Punilla;16301;San Carlos;53024;3;25,80434367;338
+13;Metropolitana de Santiago;071;Talca;07109;San Clemente;43269;10;19,85802627;946
+13;Metropolitana de Santiago;053;Los Andes;05304;San Esteban;18855;1;17,8529807;605
+13;Metropolitana de Santiago;163;Punilla;16304;San Fabián;4308;2;28,38632113;268
+13;Metropolitana de Santiago;057;San Felipe de Aconcagua;05701;San Felipe;76844;2;26,84969725;532
+13;Metropolitana de Santiago;063;Colchagua;06301;San Fernando;73973;5;27,90729512;979
+13;Metropolitana de Santiago;121;Magallanes;12104;San Gregorio;799;3;11,85395922;289
+13;Metropolitana de Santiago;161;Diguillín;16108;San Ignacio;16079;3;18,67939821;801
+13;Metropolitana de Santiago;074;Linares;07406;San Javier;45547;5;19,38663198;527
+13;Metropolitana de Santiago;131;Santiago;13129;San Joaquín;94492;1;20,24994214;940
+13;Metropolitana de Santiago;132;Cordillera;13203;San José de Maipo;18189;3;33,97626888;347
+13;Metropolitana de Santiago;103;Osorno;10306;San Juan de la Costa;7512;2;36,66610795;631
+13;Metropolitana de Santiago;131;Santiago;13130;San Miguel;107954;1;22,01630148;839
+13;Metropolitana de Santiago;163;Punilla;16305;San Nicolás;11603;2;16,6353155;542
+13;Metropolitana de Santiago;103;Osorno;10307;San Pablo;10030;0;20,20837076;140
+13;Metropolitana de Santiago;135;Melipilla;13505;San Pedro;9726;2;24,65631244;566
+13;Metropolitana de Santiago;022;El Loa;02203;San Pedro de Atacama;10996;4;39,4080042;928
+13;Metropolitana de Santiago;081;Concepción;08108;San Pedro de la Paz;131808;2;16,34837044;678
+13;Metropolitana de Santiago;071;Talca;07110;San Rafael;9191;2;22,98660578;265
+13;Metropolitana de Santiago;131;Santiago;13131;San Ramón;82900;1;19,84315575;577
+13;Metropolitana de Santiago;083;Biobío;08310;San Rosendo;3412;1;31,5995238;8
+13;Metropolitana de Santiago;061;Cachapoal;06117;San Vicente;46766;3;25,7447065;193
+13;Metropolitana de Santiago;083;Biobío;08311;Santa Bárbara;13773;2;24,08027717;517
+13;Metropolitana de Santiago;063;Colchagua;06310;Santa Cruz;37855;1;27,64527592;170
+13;Metropolitana de Santiago;081;Concepción;08109;Santa Juana;13749;1;22,33456469;581
+13;Metropolitana de Santiago;057;San Felipe de Aconcagua;05706;Santa María;15241;1;14,66719658;532
+13;Metropolitana de Santiago;131;Santiago;13101;Santiago;404495;4;35,73259714;293
+14;Los Ríos;056;San Antonio;05606;Santo Domingo;10900;1;20,76154192;313
+14;Los Ríos;021;Antofagasta;02103;Sierra Gorda;10186;2;138,6594288;144
+14;Los Ríos;136;Talagante;13601;Talagante;74237;1;23,70537267;964
+14;Los Ríos;071;Talca;07101;Talca;220357;7;22,65659561;420
+14;Los Ríos;081;Concepción;08110;Talcahuano;151749;2;21,13110429;676
+14;Los Ríos;021;Antofagasta;02104;Taltal;13317;2;21,04050012;109
+14;Los Ríos;091;Cautín;09101;Temuco;282415;3;24,77252794;535
+14;Los Ríos;073;Curicó;07308;Teno;28921;4;25,48582351;187
+14;Los Ríos;091;Cautín;09117;Teodoro Schmidt;15045;3;29,86259868;259
+14;Los Ríos;031;Copiapó;03103;Tierra Amarilla;14019;2;29,78594323;915
+14;Los Ríos;133;Chacabuco;13303;Tiltil;19312;4;24,72368003;766
+14;Los Ríos;123;Tierra del Fuego;12303;Timaukel;405;1;37,72873043;558
+15;Arica y Parinacota;082;Arauco;08207;Tirúa;10417;1;14,97781856;838
+15;Arica y Parinacota;023;Tocopilla;02301;Tocopilla;25186;1;57,37197309;252
+15;Arica y Parinacota;091;Cautín;09118;Toltén;9722;2;25,54419673;748
+15;Arica y Parinacota;081;Concepción;08111;Tomé;54946;3;30,56447453;644
+16;Ñuble;124;Última Esperanza;12402;Torres del Paine;1209;2;24,94387628;754
+16;Ñuble;113;Capitán Prat;11303;Tortel;523;1;27,27024816;25
+16;Ñuble;092;Malleco;09210;Traiguén;18843;2;18,26917309;181
+16;Ñuble;162;Itata;16207;Treguaco;5401;1;15,59861998;766
+16;Ñuble;083;Biobío;08312;Tucapel;14134;4;27,6520174;37
+16;Ñuble;141;Valdivia;14101;Valdivia;166080;7;28,68074158;56
+16;Ñuble;033;Huasco;03301;Vallenar;51917;4;30,17307496;542
+16;Ñuble;051;Valparaíso;05101;Valparaíso;296655;13;30,34296303;816
+16;Ñuble;073;Curicó;07309;Vichuquén;4322;3;44,19260712;810
+16;Ñuble;092;Malleco;09211;Victoria;34182;4;25,77437938;141
+16;Ñuble;041;Elqui;04106;Vicuña;27771;3;36,96258236;592
+16;Ñuble;091;Cautín;09119;Vilcún;28151;4;17,82294767;327
+16;Ñuble;074;Linares;07407;Villa Alegre;16221;3;20,71293937;715
+16;Ñuble;058;Marga Marga;05804;Villa Alemana;126548;1;15,27216352;229
+16;Ñuble;091;Cautín;09120;Villarrica;55478;2;40,68841105;340
+16;Ñuble;051;Valparaíso;05109;Viña del Mar;334248;9;27,27805068;612
+16;Ñuble;131;Santiago;13132;Vitacura;85384;1;16,78911311;769
+16;Ñuble;074;Linares;07408;Yerbas Buenas;18081;2;16,45158245;712
+16;Ñuble;083;Biobío;08313;Yumbel;21198;5;29,31361053;320
+16;Ñuble;161;Diguillín;16109;Yungay;17787;2;22,48011914;986
+16;Ñuble;054;Petorca;05405;Zapallar;7339;3;55,23939211;767
